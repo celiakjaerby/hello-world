@@ -1,4 +1,7 @@
 # hello-world
 just another repository
 
-Hello, I'm Celia
+I'm Celia
+
+It's a nice day
+
